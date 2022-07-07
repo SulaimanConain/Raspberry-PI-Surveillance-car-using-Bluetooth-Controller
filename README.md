@@ -50,5 +50,5 @@ After finding the numbers use then in a program to control any thing.....
 
 
 Using the main.py file we can easyly controll motors using L298N motor Driver module.
-![image](https://user-images.githubusercontent.com/88006688/177689028-bde18465-e64c-413e-a5ac-8e5f639af615.png)
+
 
