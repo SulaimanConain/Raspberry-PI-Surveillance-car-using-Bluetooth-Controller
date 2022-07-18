@@ -7,7 +7,7 @@ So basically this project has 2 main parts:
 
 
 1)Hardware:Raspberry Pi 4 (or below), any cheap bluetooth controller i am using vr controller 
-                 few leds and jumper wires. 
+           few leds and jumper wires. 
 
 
 2)Program: program is written in python.
