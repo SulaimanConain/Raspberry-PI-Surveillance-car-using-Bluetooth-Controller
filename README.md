@@ -1,6 +1,6 @@
 # Raspberry-PI-Surveillance-car-using-Bluetooth-Controller
 Raspberry PI Surveillance car using VR Bluetooth Controller 
-After looking into lot of projects on internet I came up with an idea of controlling Home appliances using Bluetooth Controller.
+After looking into lot of projects on internet I came up with an idea of controlling CAR using Bluetooth Controller.
 
 
 So basically this project has 2 main parts:
